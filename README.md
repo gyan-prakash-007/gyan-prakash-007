@@ -33,11 +33,14 @@ Currently learning **C Programming** and building my foundations in computer sci
 ### Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight)
 
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gyan-prakash-007&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
 
-### 🚀 Let's Build and Grow Together![![trophy](https://github-profile-trophy.vercel.app/?username=gyan-prakash-007&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+### 🚀 Let's Build and Grow Together!
 
 ---
 
