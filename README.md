@@ -20,11 +20,11 @@ Currently learning **C Programming** and building my foundations in computer sci
 - 🔭 I’m working on: Strengthening my logic-building skills  
 - 🌱 I’m currently learning: C programming (arrays, loops, structures ,data structures)  
 - ⚡ Fun fact: I do push-ups to debug my brain  
+---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=It+ain't+about+how+hard+you+hit%2C;It's+about+how+hard+you+can+get+hit+and+keep+moving+forward.+%F0%9F%92%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=There+is+no+tomorrow.+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </h1>
-
 
 
 ---
