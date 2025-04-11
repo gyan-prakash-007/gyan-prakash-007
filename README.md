@@ -22,8 +22,9 @@ Currently learning **C Programming** and building my foundations in computer sci
 - ⚡ Fun fact: I do push-ups to debug my brain  
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=It+ain't+about+how+hard+you+hit,+it's+about+how+hard+you+can+get+hit+and+keep+moving+forward.+%F0%9F%92%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=It+ain't+about+how+hard+you+hit,+;it's+about+how+hard+you+can+get+hit+and+keep+moving+forward.+%F0%9F%92%A5" alt="Typing SVG" />
 </h1>
+
 
 
 ---
