@@ -68,6 +68,5 @@ Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if 
 
 ![GitHub Stars](https://img.shields.io/github/stars/gyan-prakash-007?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-Count-informational?style=flat&logo=github&color=0e75b6)
 
-![Languages](https://img.shields.io/badge/Code-C%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-informational?style=flat&color=0e75b6)
+
