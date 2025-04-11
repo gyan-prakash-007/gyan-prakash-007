@@ -24,6 +24,6 @@ Currently learning **C Programming** and building my foundations in computer sci
 ---
 
 ### GitHub Stats  
-![Gyan Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuweaec&show_icons=true&theme=tokyonight)
+![Gyan Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyan-prakash-007&show_icons=true&theme=tokyonight)
 
 ---
