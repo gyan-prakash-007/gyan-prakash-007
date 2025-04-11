@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=450&lines=👋+Hello+World!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-# Hi 👋, I'm Gyan  
+# Hi 👋, I'm Gyan Prakash  
 ### A Passionate Learner | Future Software Engineer | C Programming Enthusiast
 
 ---
@@ -17,11 +17,6 @@ Currently learning **C Programming** and building my foundations in computer sci
 
 ---
 
-### Connect with me  
-[![Instagram](https://img.shields.io/badge/-@_ary_22_-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/_ary_22_)](https://instagram.com/_ary_22_)
-
----
-
 ### Tech Stack  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
@@ -29,6 +24,6 @@ Currently learning **C Programming** and building my foundations in computer sci
 ---
 
 ### GitHub Stats  
-![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuweaec&show_icons=true&theme=tokyonight)
+![Gyan Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuweaec&show_icons=true&theme=tokyonight)
 
 ---
