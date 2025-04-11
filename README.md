@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=👋+Hello+World!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=👋+Hello+World!;Welcome+to+my+GitHub+Profile!;My+name+is+Gyan+Prakash+👨‍💻" alt="Typing SVG" />
 </h1>
+
 
 
 
@@ -34,6 +35,11 @@ Currently learning **C Programming** and building my foundations in computer sci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight)
 
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gyan-prakash-007&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gyan-prakash-007&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -47,8 +53,10 @@ Currently learning **C Programming** and building my foundations in computer sci
 Thanks for visiting my GitHub profile! I'm on an exciting journey of learning, building, and improving every day.  
 Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if something helps you.
 
-Happy Coding! 🙌  
-— Gyan Prakash
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%99%8C;—+Gyan+Prakash" alt="Typing SVG" />
+</h1>
+
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&label=Profile+Views&color=0e75b6&style=flat)
