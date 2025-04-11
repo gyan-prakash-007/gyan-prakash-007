@@ -6,6 +6,8 @@
 
 # Hi 👋, I'm Gyan Prakash  
 ### A Passionate Learner | Future Software Engineer | C Programming Enthusiast
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -60,11 +62,12 @@ Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if 
 </h1>
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&label=Profile+Views&color=0e75b6&style=flat)
 
 ![GitHub Followers](https://img.shields.io/github/followers/gyan-prakash-007?label=Followers&style=flat&color=0e75b6)
+
+
 
 ![GitHub Stars](https://img.shields.io/github/stars/gyan-prakash-007?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
 
