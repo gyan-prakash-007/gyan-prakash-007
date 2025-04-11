@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+My+name+is+Gyan+Prakash.;This+is+my+GitHub+profile." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+My+name+is+Gyan+Prakash.;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
 </h1>
-
 
 
 
@@ -29,11 +28,16 @@ Currently learning **C Programming** and building my foundations in computer sci
 ### GitHub Stats  
 ![Gyan Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyan-prakash-007&show_icons=true&theme=tokyonight)
 ---
+### 📈 GitHub Contributions
+
+![Gyan's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gyan-prakash-007&theme=react-dark&hide_border=true)
+---
 ### Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight)
 ---
-![Gyan's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gyan022&theme=react-dark&hide_border=true)
+![Gyan's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gyan-prakash_007&theme=react-dark&hide_border=true)
 ---
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gyan-prakash-007&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
