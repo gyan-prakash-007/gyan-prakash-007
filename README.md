@@ -33,7 +33,6 @@ Currently learning **C Programming** and building my foundations in computer sci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight)
 ### GitHub Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gyan-prakash-007&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
 ---
 ---
 
