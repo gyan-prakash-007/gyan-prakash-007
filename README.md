@@ -9,6 +9,8 @@
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gyansir22)
+
 ---
 
 ### About Me  
