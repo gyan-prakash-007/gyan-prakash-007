@@ -61,5 +61,13 @@ Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if 
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
----
+
 ![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&label=Profile+Views&color=0e75b6&style=flat)
+
+![GitHub Followers](https://img.shields.io/github/followers/gyan-prakash-007?label=Followers&style=flat&color=0e75b6)
+
+![GitHub Stars](https://img.shields.io/github/stars/gyan-prakash-007?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
+
+![Public Repos](https://img.shields.io/badge/Public%20Repos-Count-informational?style=flat&logo=github&color=0e75b6)
+
+![Languages](https://img.shields.io/badge/Code-C%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-informational?style=flat&color=0e75b6)
