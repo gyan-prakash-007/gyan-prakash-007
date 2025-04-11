@@ -34,9 +34,12 @@ Currently learning **C Programming** and building my foundations in computer sci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight)
 
 
+
 ---
 
-### 🚀 Let's Build and Grow Together!
+### 🚀 Let's Build and Grow Together![![trophy](https://github-profile-trophy.vercel.app/?username=gyan-prakash-007&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 Thanks for visiting my GitHub profile! I'm on an exciting journey of learning, building, and improving every day.  
 Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if something helps you.
