@@ -17,7 +17,7 @@ I'm a first-year CSE student passionate about technology, coding, and problem-so
 Currently learning **C Programming** and building my foundations in computer science.
 
 - 🔭 I’m working on: Strengthening my logic-building skills  
-- 🌱 I’m currently learning: C programming (arrays, loops, structures)  
+- 🌱 I’m currently learning: C programming (arrays, loops, structures ,data structures)  
 - ⚡ Fun fact: I do push-ups to debug my brain  
 
 ---
@@ -60,3 +60,4 @@ Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&label=Profile+Views&color=0e75b6&style=flat)
+![Gyan's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gyan-prakash-007&theme=react-dark&hide_border=true)
