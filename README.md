@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+My+name+is+Gyan+Prakash.;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+There!+My+name+is+Gyan+Prakash.;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
 </h1>
 
 
@@ -20,6 +20,11 @@ Currently learning **C Programming** and building my foundations in computer sci
 - 🔭 I’m working on: Strengthening my logic-building skills  
 - 🌱 I’m currently learning: C programming (arrays, loops, structures ,data structures)  
 - ⚡ Fun fact: I do push-ups to debug my brain  
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=It+ain't+about+how+hard+you+hit,+it's+about+how+hard+you+can+get+hit+and+keep+moving+forward.+%F0%9F%92%A5" alt="Typing SVG" />
+</h1>
+
 
 ---
 
@@ -60,8 +65,11 @@ Thanks for visiting my GitHub profile! I'm on an exciting journey of learning, b
 Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if something helps you.
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%99%8C;—+Gyan+Prakash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=Happy+Coding!+%F0%9F%99%8C;May+the+Force+be+with+you+%F0%9F%8C%8C%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </h1>
+
+
+
 
 ---
 
