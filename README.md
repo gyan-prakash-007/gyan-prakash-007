@@ -31,8 +31,9 @@ Currently learning **C Programming** and building my foundations in computer sci
 ![Gyan Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyan-prakash-007&show_icons=true&theme=tokyonight)
 ### Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight)
-### GitHub Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gyan-prakash-007&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gyan-prakash-007&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 ---
 ---
 
@@ -44,5 +45,5 @@ Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if 
 Happy Coding! 🙌  
 — Gyan Prakash
 ---
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&label=Profile+Views&color=0e75b6&style=flat)
