@@ -61,4 +61,5 @@ Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if 
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&label=Profile+Views&color=0e75b6&style=flat)
