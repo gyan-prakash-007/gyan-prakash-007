@@ -27,7 +27,7 @@ Currently learning **C Programming** and building my foundations in computer sci
 
 ---
 ### GitHub Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gyan-prakash&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gyan-prakash-007&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 ### GitHub Stats  
 ![Gyan Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyan-prakash-007&show_icons=true&theme=tokyonight)
 ### Most Used Languages  
