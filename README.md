@@ -57,7 +57,7 @@ Currently learning **C Programming** and building my foundations in computer sci
 ---
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gyan-prakash-007&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=gyan-prakash-007&theme=gruvbox
 
 
 ---
