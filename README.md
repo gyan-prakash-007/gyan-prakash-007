@@ -5,7 +5,7 @@
 
 
 # Hi 👋, I'm Gyan Prakash  
-### A Passionate Learner | Future Software Engineer | C Programming Enthusiast
+### A Passionate Learner | Future Software Engineer | C Programming Enthusiast | CSE'28
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
