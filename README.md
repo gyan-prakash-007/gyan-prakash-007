@@ -33,9 +33,10 @@ Currently learning **C Programming** and building my foundations in computer sci
 
 ### Tech Stack  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 
 ---
@@ -51,11 +52,12 @@ Currently learning **C Programming** and building my foundations in computer sci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight)
 
 ---
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gyan-prakash-007&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GyanPrakash007&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 
 ---
