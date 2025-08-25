@@ -45,6 +45,8 @@ Currently learning **C Programming** and building my foundations in computer sci
 
 
 ---
+[![LeetCode user USfdBp7qG4](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FUSfdBp7qG4&logo=leetcode&logoColor=yellow)](https://leetcode.com/USfdBp7qG4/)
+
 
 ### 📊 GitHub Stats  
 ![Gyan Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyan-prakash-007&show_icons=true&theme=tokyonight)
