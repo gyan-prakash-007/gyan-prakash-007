@@ -38,6 +38,11 @@ Currently learning **C Programming** and building my foundations in computer sci
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
+---
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/USfdBp7qG4?theme=dark&font=Karma&ext=heatmap)
+
 
 ---
 
