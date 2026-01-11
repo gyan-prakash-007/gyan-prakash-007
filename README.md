@@ -3,6 +3,10 @@
 </h1>
 
 
+![Snake animation](https://raw.githubusercontent.com/gyan-prakash-007/gyan-prakash-007/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 # Hi 👋, I'm Gyan Prakash  
