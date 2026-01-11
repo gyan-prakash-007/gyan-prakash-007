@@ -1,9 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+There!+My+name+is+Gyan+Prakash.;Welcome+to+my+GitHub+profile+✋." alt="Typing SVG" />
 </h1>
-## Hi 👋 I'm Gyan Prakash
-
-![Snake animation](https://raw.githubusercontent.com/gyan-prakash-007/gyan-prakash-007/output/github-contribution-grid-snake.svg)
 
 
 
