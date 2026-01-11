@@ -2,7 +2,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+There!+My+name+is+Gyan+Prakash.;Welcome+to+my+GitHub+profile+✋." alt="Typing SVG" />
 </h1>
 
-![Snake animation](https://raw.githubusercontent.com/gyan-prakash-007/gyan-prakash-007/output/github-contribution-grid-snake-dark.svg)
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ gyan-prakash-007 }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
