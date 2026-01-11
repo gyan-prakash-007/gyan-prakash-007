@@ -53,9 +53,6 @@ Currently strengthening my computer science fundamentals and programming skills.
 [![LeetCode user USfdBp7qG4](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FUSfdBp7qG4&logo=leetcode&logoColor=yellow)](https://leetcode.com/USfdBp7qG4/)
 
 
-### 📊 GitHub Stats  
-<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="300"/>
-
 ### 📈 GitHub Contributions
 
 ![Gyan's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gyan-prakash-007&theme=react-dark&hide_border=true)
