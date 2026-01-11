@@ -1,12 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+There!+My+name+is+Gyan+Prakash.;Welcome+to+my+GitHub+profile+✋." alt="Typing SVG" />
 </h1>
-
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
 jobs:
@@ -15,9 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ gyan-prakash-007 }}
+          github_user_name: gyan-prakash-007
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -30,12 +30,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-
-
-
 
 # Hi 👋, I'm Gyan Prakash  
 ### A Passionate Learner | Future Software Engineer | C Programming Enthusiast | CSE'28
