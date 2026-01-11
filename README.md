@@ -54,8 +54,8 @@ Currently strengthening my computer science fundamentals and programming skills.
 
 
 ### 📊 GitHub Stats  
-![Gyan Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyan-prakash-007&show_icons=true&theme=tokyonight)
----
+<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="300"/>
+
 ### 📈 GitHub Contributions
 
 ![Gyan's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gyan-prakash-007&theme=react-dark&hide_border=true)
