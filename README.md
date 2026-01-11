@@ -14,13 +14,18 @@
 ---
 
 ### About Me  
-I'm a first-year CSE student passionate about technology, coding, and problem-solving.  
-Currently learning **C Programming** and building my foundations in computer science.
+I'm a second-year CSE student passionate about technology, coding, and problem-solving.
+Currently strengthening my computer science fundamentals and programming skills.
 
+🚀 My Current Stats
 
-- 🔭 I’m working on: Strengthening my logic-building skills  
-- 🌱 I’m currently learning: C programming (arrays, loops, structures ,data structures)  
-- ⚡ Fun fact: I do push-ups to debug my brain  
+🔭 Working on: Improving problem-solving and logic-building skills
+
+🌱 Currently focusing on: Python programming (DSA, problem-solving, core concepts)
+
+🧠 Learning: Data Structures, Algorithms, and core CS subjects
+
+⚡ Fun fact: I do push-ups to debug my brain
 
 ---
 
