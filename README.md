@@ -9,7 +9,7 @@
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gyan-prakash-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gyansir22)
+[![LeetCode user USfdBp7qG4](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FUSfdBp7qG4&logo=leetcode&logoColor=yellow)](https://leetcode.com/USfdBp7qG4/)
 
 ---
 
