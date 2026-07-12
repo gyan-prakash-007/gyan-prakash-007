@@ -60,8 +60,8 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gyan-prakash-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=gyan-prakash-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=gyan-prakash-007&theme=tokyonight&hide_border=true" />
 
@@ -93,6 +93,6 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gyan-prakash-) · Follow the build-in-public journey on [Instagram](https://instagram.com/grindwith.gp)
 
-![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&label=Profile+Views&color=0e75b6&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
