@@ -2,18 +2,7 @@
 
 # Gyan Prakash
 
-**CS Undergrad · Systems Programming & Linux Internals · Python**
 
-```
-┌────────────────────────────────────────────────────┐
-│  guest@github:~$ whoami                             │
-│  gyan-prakash-007                                   │
-│                                                      │
-│  guest@github:~$ cat role.txt                       │
-│  Third-year CS student · builds from scratch        │
-│  to understand what's beneath the surface           │
-└────────────────────────────────────────────────────┘
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyan-prakash-)
 [![Instagram](https://img.shields.io/badge/Instagram-grindwith.gp-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/grindwith.gp/)
@@ -62,6 +51,8 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4B0082?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-2E8B57?style=for-the-badge)
 
 ---
 
@@ -96,4 +87,3 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 [![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
