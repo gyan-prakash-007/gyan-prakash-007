@@ -4,8 +4,20 @@
 
 **CS Undergrad · Systems Programming & Linux Internals · Python**
 
+```
+┌────────────────────────────────────────────────────┐
+│  guest@github:~$ whoami                             │
+│  gyan-prakash-007                                   │
+│                                                      │
+│  guest@github:~$ cat role.txt                       │
+│  Third-year CS student · builds from scratch        │
+│  to understand what's beneath the surface           │
+└────────────────────────────────────────────────────┘
+```
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyan-prakash-)
 [![Instagram](https://img.shields.io/badge/Instagram-grindwith.gp-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/grindwith.gp/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gyansir22@gamail.com)
 [![GitHub followers](https://img.shields.io/github/followers/gyan-prakash-007?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/gyan-prakash-007)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/USfdBp7qG4/)
 
@@ -15,13 +27,9 @@
 
 ## About Me
 
-I'm a CS student who likes taking things apart to see how they work — mostly at the level of shells, schedulers, and the Linux kernel. I build projects in public: pick a system-level concept, implement it from scratch in Python or C, and write up what I learned along the way.
+I'm a third-year Computer Science student who enjoys understanding how software works beneath the surface. I like building projects from scratch to explore the fundamentals instead of treating technology as a black box.
 
-- 🔧 Currently building a **rep-counter** using OpenCV + MediaPipe — real-time exercise tracking with pose estimation
-- 🐧 Into Linux internals, systems programming, and how operating systems actually work under the hood
-- 🌐 Also comfortable with C++ and computer networks concepts
-- 🌱 Learning: computer vision, cryptography fundamentals (started with a Kyber/post-quantum walkthrough), and core CS theory
-- 💬 I write about what I'm learning on Instagram [@grindwith.gp](https://instagram.com/grindwith.gp) — casual, no-fluff CS content for beginners
+Outside of academics, I document my learning journey, share what I build, and constantly challenge myself to improve through consistent practice. My goal is simple: learn deeply, build meaningful things, and keep getting a little better every day.
 
 ---
 
@@ -71,15 +79,6 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 </div>
 
 <details>
-<summary>🏆 Trophies</summary>
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=gyan-prakash-007&theme=tokyonight&no-frame=true&margin-w=10&column=7)
-
-</div>
-</details>
-
-<details>
 <summary>📊 LeetCode Stats</summary>
 <div align="center">
 
@@ -97,3 +96,4 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 [![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
