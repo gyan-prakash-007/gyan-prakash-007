@@ -5,6 +5,7 @@
 **CS Undergrad · Systems Programming & Linux Internals · Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyan-prakash-)
+[![Instagram](https://img.shields.io/badge/Instagram-grindwith.gp-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/grindwith.gp/)
 [![GitHub followers](https://img.shields.io/github/followers/gyan-prakash-007?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/gyan-prakash-007)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/USfdBp7qG4/)
 
@@ -32,9 +33,9 @@ A Python simulator implementing six CPU scheduling algorithms — FCFS, Round Ro
 `Python` `Operating Systems` `Data Visualization`
 
 ### 🐚 [gyan-shell](https://github.com/gyan-prakash-007/gyan-shell)
-A custom Unix-style shell built from scratch in C, supporting pipes, I/O redirection, background processes, and command history.
+A custom Unix-style shell built from scratch in Python, supporting pipes, I/O redirection, background processes, and command history.
 
-`C` `Unix` `Systems Programming`
+`Python` `Unix` `Systems Programming`
 
 ### 🏋️ Rep Counter *(in progress)*
 A computer vision app that counts reps for bicep curls, push-ups, and squats in real time using pose landmark tracking. Currently building out multi-exercise rep-counting logic.
@@ -91,7 +92,7 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 
 <div align="center">
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gyan-prakash-) · Follow the build-in-public journey on [Instagram](https://instagram.com/grindwith.gp)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gyan-prakash-) · Follow the build-in-public journey on [Instagram](https://www.instagram.com/grindwith.gp/)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
