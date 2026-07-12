@@ -2,6 +2,7 @@
 
 # Gyan Prakash
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyan-prakash-)
 [![Instagram](https://img.shields.io/badge/Instagram-grindwith.gp-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/grindwith.gp/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gyansir22@gamail.com)
