@@ -18,6 +18,7 @@ I'm a CS student who likes taking things apart to see how they work — mostly a
 
 - 🔧 Currently building a **rep-counter** using OpenCV + MediaPipe — real-time exercise tracking with pose estimation
 - 🐧 Into Linux internals, systems programming, and how operating systems actually work under the hood
+- 🌐 Also comfortable with C++ and computer networks concepts
 - 🌱 Learning: computer vision, cryptography fundamentals (started with a Kyber/post-quantum walkthrough), and core CS theory
 - 💬 I write about what I'm learning on Instagram [@grindwith.gp](https://instagram.com/grindwith.gp) — casual, no-fluff CS content for beginners
 
@@ -45,6 +46,7 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,7 +73,7 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 <summary>🏆 Trophies</summary>
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gyan-prakash-007&theme=tokyonight&no-frame=true&margin-w=10&column=7)
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=gyan-prakash-007&theme=tokyonight&no-frame=true&margin-w=10&column=7)
 
 </div>
 </details>
