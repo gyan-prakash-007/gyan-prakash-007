@@ -2,8 +2,6 @@
 
 # Gyan Prakash
 
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyan-prakash-)
 [![Instagram](https://img.shields.io/badge/Instagram-grindwith.gp-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/grindwith.gp/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gyansir22@gamail.com)
@@ -53,6 +51,20 @@ A computer vision app that counts reps for bicep curls, push-ups, and squats in 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4B0082?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-2E8B57?style=for-the-badge)
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gyan-prakash-007/gyan-prakash-007/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gyan-prakash-007/gyan-prakash-007/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://github.com/gyan-prakash-007/gyan-prakash-007/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
