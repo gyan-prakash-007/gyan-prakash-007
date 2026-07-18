@@ -53,7 +53,7 @@ A custom Unix-style shell built from scratch in Python, supporting pipes, I/O re
 
 `Python` `Unix` `Systems Programming`
 
-### 📈 [hn-scraper](https://github.com/gyan-prakash-007/hn-scraper)
+### 📈 [hn-scraper](https://github.com/gyan-prakash-007/hn-scraper) *(in progress)*
 A Hacker News scraper architected as a time-series tracking system — timestamps every scrape, appends to a growing dataset instead of overwriting it, and is built toward daily automation to surface trends like point growth and recurring topics over time.
 
 `Python` `Web Scraping` `Data Pipelines`
