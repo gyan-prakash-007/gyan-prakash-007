@@ -53,10 +53,10 @@ A custom Unix-style shell built from scratch in Python, supporting pipes, I/O re
 
 `Python` `Unix` `Systems Programming`
 
-### 🏋️ Rep Counter *(in progress)*
-A computer vision app that counts reps for bicep curls, push-ups, and squats in real time using pose landmark tracking. Currently building out multi-exercise rep-counting logic.
+### 📈 [hn-scraper](https://github.com/gyan-prakash-007/hn-scraper)
+A Hacker News scraper architected as a time-series tracking system — timestamps every scrape, appends to a growing dataset instead of overwriting it, and is built toward daily automation to surface trends like point growth and recurring topics over time.
 
-`Python` `OpenCV` `MediaPipe`
+`Python` `Web Scraping` `Data Pipelines`
 
 
 ---
