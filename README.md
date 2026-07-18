@@ -23,12 +23,12 @@ Outside of academics, I document my learning journey, share what I build, and co
 
 ## Academics
 
-![CGPA](https://img.shields.io/badge/CGPA-8.76%2F10-4B0082?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-8.776%2F10-4B0082?style=for-the-badge)
 
 | Semester | CGPA |
 |----------|------|
 | 1st      | 8.97 |
-| 2nd      | 8.60 |
+| 2nd      | 8.66 |
 | 3rd      | 8.70 |
 
 <details>
