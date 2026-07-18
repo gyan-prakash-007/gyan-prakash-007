@@ -21,6 +21,26 @@ Outside of academics, I document my learning journey, share what I build, and co
 
 ---
 
+## Academics
+
+![CGPA](https://img.shields.io/badge/CGPA-8.76%2F10-4B0082?style=for-the-badge)
+
+| Semester | CGPA |
+|----------|------|
+| 1st      | 8.97 |
+| 2nd      | 8.60 |
+| 3rd      | 8.70 |
+
+<details>
+<summary>📜 Certifications</summary>
+<br>
+
+- [**NPTEL — Principles of Management**](https://github.com/gyan-prakash-007/gyan-prakash-007/blob/main/certificates/NPTEL-POM.pdf) — Elite, 88% · Top 5% 🏅
+
+</details>
+
+---
+
 ## Featured Projects
 
 ### 🖥️ [CPU Scheduler Simulator](https://github.com/gyan-prakash-007/cpu-scheduler-sim)
