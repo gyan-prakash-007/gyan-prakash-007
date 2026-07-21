@@ -42,22 +42,20 @@ Outside of academics, I document my learning journey, share what I build, and co
 ---
 
 ## Featured Projects
+### 💬 [gyan-chat](https://github.com/gyan-prakash-007/gyan-chat)
+A real-time terminal-based group chat application built from scratch using raw TCP sockets. Features a custom application-layer protocol, length-prefixed message framing, username handshakes, multi-threaded client handling, heartbeat-based dead connection detection, and graceful disconnect handling.
 
-### 🖥️ [CPU Scheduler Simulator](https://github.com/gyan-prakash-007/cpu-scheduler-sim)
-A Python simulator implementing six CPU scheduling algorithms — FCFS, Round Robin, SJF, Priority Scheduling, MLFQ, and a simplified CFS — with synthetic workload generation and matplotlib-based comparison charts for metrics like turnaround and waiting time.
-
-`Python` `Operating Systems` `Data Visualization`
+`Python` `Computer Networks` `TCP` `Sockets Programing` `Multithreading`
 
 ### 🐚 [gyan-shell](https://github.com/gyan-prakash-007/gyan-shell)
-A custom Unix-style shell built from scratch in Python, supporting pipes, I/O redirection, background processes, and command history.
+A Unix-style shell built from scratch in Python with support for command execution, pipes, I/O redirection, background processes, and built-in shell commands.
 
 `Python` `Unix` `Systems Programming`
 
-### 📈 [hn-scraper](https://github.com/gyan-prakash-007/hn-scraper) *(in progress)*
-A Hacker News scraper architected as a time-series tracking system — timestamps every scrape, appends to a growing dataset instead of overwriting it, and is built toward daily automation to surface trends like point growth and recurring topics over time.
+### 🖥️ [CPU Scheduler Simulator](https://github.com/gyan-prakash-007/cpu-scheduler-sim)
+A Python simulator implementing six CPU scheduling algorithms—FCFS, Round Robin, SJF, Priority Scheduling, MLFQ, and a simplified CFS—with synthetic workload generation and Matplotlib-based comparison charts for metrics like turnaround and waiting time.
 
-`Python` `Web Scraping` `Data Pipelines`
-
+`Python` `Operating Systems` `Data Visualization`
 
 ---
 
