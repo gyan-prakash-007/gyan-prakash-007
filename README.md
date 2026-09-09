@@ -2,112 +2,77 @@
 
 # Gyan Prakash
 
+[
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyan-prakash-)
-[![Instagram](https://img.shields.io/badge/Instagram-grindwith.gp-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/grindwith.gp/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gyansir22@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/gyan-prakash-007?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/gyan-prakash-007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/USfdBp7qG4/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-</div>
+](https://www.linkedin.com/in/gyan-prakash-)
+[
 
----
+![Instagram](https://img.shields.io/badge/Instagram-grindwith.gp-E4405F?style=flat-square&logo=instagram&logoColor=white)
 
-## About Me
+](https://www.instagram.com/grindwith.gp/)
+[
 
-I'm a third-year Computer Science student who enjoys understanding how software works beneath the surface. I like building projects from scratch to explore the fundamentals instead of treating technology as a black box.
+![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)
 
-Outside of academics, I document my learning journey, share what I build, and constantly challenge myself to improve through consistent practice. My goal is simple: learn deeply, build meaningful things, and keep getting a little better every day.
+](mailto:gyansir22@gmail.com)
+[
 
----
+![GitHub followers](https://img.shields.io/github/followers/gyan-prakash-007?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)
 
-## Academics
+](https://github.com/gyan-prakash-007)
+[
 
-![CGPA](https://img.shields.io/badge/CGPA-8.67%2F10-4B0082?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 
-| Semester | CGPA |
-|----------|------|
-| 1st      | 8.97 |
-| 2nd      | 8.66 |
-| 3rd      | 8.70 |
-| 4th      | 8.33 |
+](https://leetcode.com/u/gyan-prakash-007/)
 
-<details>
-<summary>📜 Certifications</summary>
-<br>
-
-- [**NPTEL — Principles of Management**](https://github.com/gyan-prakash-007/gyan-prakash-007/blob/main/certificates/NPTEL-POM.pdf) — Elite, 88% · Top 5% 🏅
-
-</details>
-
----
-
-## Featured Projects
-### 💬 [gyan-chat](https://github.com/gyan-prakash-007/gyan-chat)
-A real-time terminal-based group chat application built from scratch using raw TCP sockets. Features a custom application-layer protocol, length-prefixed message framing, username handshakes, multi-threaded client handling, heartbeat-based dead connection detection, and graceful disconnect handling.
-
-`Python` `Computer Networks` `TCP` `Sockets Programing` `Multithreading`
-
-### 🐚 [gyan-shell](https://github.com/gyan-prakash-007/gyan-shell)
-A Unix-style shell built from scratch in Python with support for command execution, pipes, I/O redirection, background processes, and built-in shell commands.
-
-`Python` `Unix` `Systems Programming`
-
-### 🖥️ [CPU Scheduler Simulator](https://github.com/gyan-prakash-007/cpu-scheduler-sim)
-A Python simulator implementing six CPU scheduling algorithms—FCFS, Round Robin, SJF, Priority Scheduling, MLFQ, and a simplified CFS—with synthetic workload generation and Matplotlib-based comparison charts for metrics like turnaround and waiting time.
-
-`Python` `Operating Systems` `Data Visualization`
-
----
-
-## Tech Stack
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4B0082?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-2E8B57?style=for-the-badge)
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gyan-prakash-007/gyan-prakash-007/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gyan-prakash-007/gyan-prakash-007/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://github.com/gyan-prakash-007/gyan-prakash-007/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## GitHub Stats
-
-GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.shion.dev/api?username=gyan-prakash-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gyan-prakash-007&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats-eight.vercel.app?user=gyan-prakash-007&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyan-prakash-007&theme=tokyo-night&hide_border=true" /> </div> 
-<details>
-<summary>📊 LeetCode Stats</summary>
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/USfdBp7qG4?theme=dark&font=Fira%20Code&ext=activity)
+### Tech Stack
 
 
----
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
----
 
-<div align="center">
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gyan-prakash-) · Follow the build-in-public journey on [Instagram](https://www.instagram.com/grindwith.gp/)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+
+
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+
+
+
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 
 
