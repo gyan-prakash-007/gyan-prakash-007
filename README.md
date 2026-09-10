@@ -2,12 +2,11 @@
 
 # Gyan Prakash
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyan-prakash-)
-[![Instagram](https://img.shields.io/badge/Instagram-grindwith.gp-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/grindwith.gp/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gyansir22@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/gyan-prakash-007?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/gyan-prakash-007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/USfdBp7qG4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gyan-prakash-)
+[![Instagram](https://img.shields.io/badge/Instagram-grindwith.gp-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/grindwith.gp/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:gyansir22@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/gyan-prakash-007?style=flat-square\&label=Followers\&color=181717\&logo=github\&logoColor=white)](https://github.com/gyan-prakash-007)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square\&logo=leetcode\&logoColor=white)](https://leetcode.com/USfdBp7qG4/)
 
 </div>
 
@@ -26,7 +25,7 @@ Outside of academics, I document my learning journey, share what I build, and co
 ![CGPA](https://img.shields.io/badge/CGPA-8.67%2F10-4B0082?style=for-the-badge)
 
 | Semester | CGPA |
-|----------|------|
+| -------- | ---- |
 | 1st      | 8.97 |
 | 2nd      | 8.66 |
 | 3rd      | 8.70 |
@@ -36,7 +35,7 @@ Outside of academics, I document my learning journey, share what I build, and co
 <summary>📜 Certifications</summary>
 <br>
 
-- [**NPTEL — Principles of Management**](https://github.com/gyan-prakash-007/gyan-prakash-007/blob/main/certificates/NPTEL-POM.pdf) — Elite, 88% · Top 5% 🏅
+* [**NPTEL — Principles of Management**](https://github.com/gyan-prakash-007/gyan-prakash-007/blob/main/certificates/NPTEL-POM.pdf) — Elite, 88% · Top 5% 🏅
 
 </details>
 
@@ -45,66 +44,58 @@ Outside of academics, I document my learning journey, share what I build, and co
 ## Featured Projects
 
 ### 💬 [gyan-chat](https://github.com/gyan-prakash-007/gyan-chat)
+
 A real-time terminal-based group chat application built from scratch using raw TCP sockets. Features a custom application-layer protocol, length-prefixed message framing, username handshakes, multi-threaded client handling, heartbeat-based dead connection detection, and graceful disconnect handling.
 
-`Python` `Computer Networks` `TCP` `Sockets Programing` `Multithreading`
+`Python` `Computer Networks` `TCP` `Socket Programming` `Multithreading`
 
 ### 🐚 [gyan-shell](https://github.com/gyan-prakash-007/gyan-shell)
+
 A Unix-style shell built from scratch in Python with support for command execution, pipes, I/O redirection, background processes, and built-in shell commands.
 
 `Python` `Unix` `Systems Programming`
 
 ### 🖥️ [CPU Scheduler Simulator](https://github.com/gyan-prakash-007/cpu-scheduler-sim)
+
 A Python simulator implementing six CPU scheduling algorithms—FCFS, Round Robin, SJF, Priority Scheduling, MLFQ, and a simplified CFS—with synthetic workload generation and Matplotlib-based comparison charts for metrics like turnaround and waiting time.
 
 `Python` `Operating Systems` `Data Visualization`
-
-### 🧠 Sentiment Analysis with GUI
-An end-to-end ML project on the Sentiment140 dataset (200k tweets), comparing Logistic Regression, Naive Bayes, and Linear SVM, wrapped in a Tkinter GUI for live predictions.
-
-`Python` `Machine Learning` `Tkinter` `NLP`
-
-### 📈 [leet_code_practice](https://github.com/gyan-prakash-007/leet_code_practice)
-DSA practice in C++ following Striver's A2Z sheet, with pattern printing, STL notes, and basic math sections documented as I go.
-
-`C++` `DSA` `STL`
-
-### 🤖 [ml-prep](https://github.com/gyan-prakash-007/ml-prep)
-Machine learning notes and practice in a learn-in-public style, covering numpy and pandas fundamentals with a running LeetCode-style question log and progress tracker.
-
-`Python` `NumPy` `Pandas` `Machine Learning`
-
-### 🔎 [hn-scraper](https://github.com/gyan-prakash-007/hn-scraper)
-A scraper built from scratch to pull posts off Hacker News, appending timestamped data to CSV so trends can be tracked over time.
-
-`Python` `Web Scraping`
-
-### 🔥 Habit Tracker
-A self-updating habit tracker powered by GitHub Actions, generating a monthly grid heatmap PNG on a schedule and logging daily entries to a JSON file.
-
-`Python` `GitHub Actions` `Automation`
 
 ---
 
 ## Tech Stack
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Languages & Core
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### Data & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+### Systems & Development
+
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4B0082?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-2E8B57?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Tools
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
 
 ---
 
@@ -137,7 +128,7 @@ A self-updating habit tracker powered by GitHub Actions, generating a monthly gr
 <summary>📊 LeetCode Stats</summary>
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/USfdBp7qG4?theme=dark&font=Fira%20Code&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/USfdBp7qG4?theme=dark\&font=Fira%20Code\&ext=activity)
 
 </div>
 </details>
