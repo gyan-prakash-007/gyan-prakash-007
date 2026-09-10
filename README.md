@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a third-year Computer Science student who enjoys understanding how software works beneath the surface. I like building projects from scratch to explore the fundamentals instead of treating technology as a black box.
 
@@ -22,7 +22,7 @@ I'm particularly interested in **systems programming, computer networks, machine
 
 ---
 
-## 🎓 Academics
+## Academics
 
 ![CGPA](https://img.shields.io/badge/CGPA-8.67%2F10-4B0082?style=for-the-badge)
 
@@ -34,19 +34,19 @@ I'm particularly interested in **systems programming, computer networks, machine
 | 4th      | 8.33 |
 
 <details>
-<summary>📜 Certifications</summary>
+<summary>Certifications</summary>
 
 <br>
 
-* [**NPTEL — Principles of Management**](https://github.com/gyan-prakash-007/gyan-prakash-007/blob/main/certificates/NPTEL-POM.pdf) — Elite, 88% · Top 5% 🏅
+* [**NPTEL — Principles of Management**](https://github.com/gyan-prakash-007/gyan-prakash-007/blob/main/certificates/NPTEL-POM.pdf) — Elite, 88% · Top 5%
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💬 [gyan-chat](https://github.com/gyan-prakash-007/gyan-chat)
+### [gyan-chat](https://github.com/gyan-prakash-007/gyan-chat)
 
 A real-time terminal-based group chat application built from scratch using raw TCP sockets.
 
@@ -61,9 +61,7 @@ Features include:
 
 `Python` `TCP` `Sockets` `Computer Networks` `Multithreading`
 
----
-
-### 🐚 [gyan-shell](https://github.com/gyan-prakash-007/gyan-shell)
+### [gyan-shell](https://github.com/gyan-prakash-007/gyan-shell)
 
 A Unix-style shell built from scratch in Python to understand how command-line interfaces interact with the operating system.
 
@@ -78,9 +76,7 @@ Features include:
 
 `Python` `Unix` `Systems Programming` `Operating Systems`
 
----
-
-### 🖥️ [CPU Scheduler Simulator](https://github.com/gyan-prakash-007/cpu-scheduler-sim)
+### [CPU Scheduler Simulator](https://github.com/gyan-prakash-007/cpu-scheduler-sim)
 
 A Python-based CPU scheduling simulator implementing six scheduling algorithms with synthetic workload generation and performance visualization.
 
@@ -99,15 +95,15 @@ Performance is evaluated using metrics such as **waiting time** and **turnaround
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 🤖 Machine Learning & Data
+### Machine Learning & Data
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
@@ -116,7 +112,7 @@ Performance is evaluated using metrics such as **waiting time** and **turnaround
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
-### ⚙️ Computer Science
+### Computer Science
 
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4B0082?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-2E8B57?style=for-the-badge)
@@ -124,12 +120,12 @@ Performance is evaluated using metrics such as **waiting time** and **turnaround
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
 ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge\&logo=linux\&logoColor=white)
 
-### 🌐 Web & Development
+### Web & Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🔧 Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -141,7 +137,7 @@ Performance is evaluated using metrics such as **waiting time** and **turnaround
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -155,7 +151,7 @@ Performance is evaluated using metrics such as **waiting time** and **turnaround
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -169,10 +165,10 @@ Performance is evaluated using metrics such as **waiting time** and **turnaround
 
 ---
 
-## 🧩 LeetCode
+## LeetCode
 
 <details>
-<summary>📊 LeetCode Stats</summary>
+<summary>LeetCode Stats</summary>
 
 <br>
 
@@ -188,11 +184,11 @@ Performance is evaluated using metrics such as **waiting time** and **turnaround
 
 <div align="center">
 
-### 💡 Build. Break. Learn. Repeat.
+### Build. Break. Learn. Repeat.
 
-📫 [LinkedIn](https://www.linkedin.com/in/gyan-prakash-) ·
-📸 [Instagram](https://www.instagram.com/grindwith.gp/) ·
-💻 [GitHub](https://github.com/gyan-prakash-007) ·
-🧩 [LeetCode](https://leetcode.com/USfdBp7qG4/)
+[LinkedIn](https://www.linkedin.com/in/gyan-prakash-) ·
+[Instagram](https://www.instagram.com/grindwith.gp/) ·
+[GitHub](https://github.com/gyan-prakash-007) ·
+[LeetCode](https://leetcode.com/USfdBp7qG4/)
 
 </div>
