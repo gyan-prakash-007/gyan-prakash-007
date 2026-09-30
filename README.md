@@ -18,7 +18,7 @@ I'm a third-year Computer Science student who enjoys understanding how software 
 
 I'm particularly interested in **systems programming, computer networks, machine learning, and problem solving**. Outside academics, I document my learning journey, build projects, and continuously work on improving my fundamentals.
 
-> **Learn deeply. Build from scratch. Keep improving.**
+> **Learn deeply. Build from scratch. Keep learning and improving.**
 
 ---
 
